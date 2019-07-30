@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file
+=======
+
+>>>>>>> branch 'master' of git@github.com:xPGL/cursogit.git
